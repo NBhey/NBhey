@@ -8,7 +8,7 @@ Welcome to my github.  Discovering the world of development and interesting thin
 </h1>
 
 <h2>Link/Ссылки:</h2>  
-<img src ='https://www.codewars.com/users/NBhey/badges/smal'>
+<img src ='https://www.codewars.com/users/NBhey/badges/small'>
 
 
 
