@@ -1,13 +1,13 @@
 
-<h1 align="center">Hi there, I'm Oganes <br>
-Welcome to my github.  Discovering the world of development and interesting things related to it. </h1>
+<h2 align="center">Hi there, I'm Oganes <br>
+Welcome to my github.  Discovering the world of development and interesting things related to it. </h2>
 
-<h1 align="center">
+<h2 align="center">
   Привет, Меня зовут Оганес <br> 
   Добро пожаловать в мой гитхаб. Открываю для себя мир разработки и интересных вещей связанных с ней.
-</h1>
+</h2>
 
-<h2>Link/Ссылки:</h2>  
+<h3>Link/Ссылки:</h3>  
 <img src ='https://www.codewars.com/users/NBhey/badges/small'>
 
 
