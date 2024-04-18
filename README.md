@@ -3,7 +3,7 @@
 Welcome to my github.  Discovering the world of development and interesting things related to it. </h2>
 
 <h2 align="center">
-  Привет, Меня зовут Оганес <br> 
+  Привет, меня зовут Оганес <br> 
   Добро пожаловать в мой гитхаб. Открываю для себя мир разработки и интересных вещей связанных с ней.
 </h2>
 
