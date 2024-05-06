@@ -22,7 +22,7 @@ Welcome to my github.  Discovering the world of development and interesting thin
 
 <h2>Projects/Проекты:</h2>
 <h3>HTML/CSS:</h3>
-<span><a style='text-decoration:none; color=red' href="https://nbhey.github.io/otus-css-Markarian-Tridrikh/">Mod Studio(desktop and 768px)</a></span> <br>
+<span style='text-decoration: none; color=red'><a  href="https://nbhey.github.io/otus-css-Markarian-Tridrikh/">Mod Studio(desktop and 768px)</a></span> <br>
 <span><a href="https://nbhey.github.io/Pet-Project1-HTML-CSS/">Guest Studio(desktop only)</a></span>
 
 
