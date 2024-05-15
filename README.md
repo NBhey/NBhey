@@ -26,7 +26,7 @@ Welcome to my github.  Discovering the world of development and interesting thin
 <span><a href="https://nbhey.github.io/Pet-Project1-HTML-CSS/">Guest House(desktop only)</a></span>
 
 <h3>JS:</h3>
-<span><a  href="https://nbhey.github.io/WeatherApp/">WeatherApp(in process)</a></span> <br>
+<span><a  href="https://nbhey.github.io/WeatherApp/">WeatherApp(desktop only)</a></span> <br>
 
 
 
