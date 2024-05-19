@@ -7,7 +7,7 @@ Welcome to my github.  Discovering the world of development and interesting thin
   Добро пожаловать в мой гитхаб. Открываю для себя мир разработки и интересных вещей связанных с ней.
 </h2>
 
-<h3>Links/Ссылки:</h3>  
+<h3 text-align="center">Links/Ссылки:</h3>  
 <a href="https://www.codewars.com/users/NBhey">
   <img src ='https://www.codewars.com/users/NBhey/badges/small'>
 </a>
