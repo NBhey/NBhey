@@ -23,7 +23,7 @@ Welcome to my github.  Discovering the world of development and interesting thin
 <h2>Projects/Проекты:</h2>
 <h3>HTML/CSS:</h3>
 <span><a  href="https://nbhey.github.io/otus-css-Markarian-Tridrikh/">Mod Studio(desktop and 768px)</a></span> <br>
-<span><a href="https://nbhey.github.io/Pet-Project1-HTML-CSS/">Guest House(desktop only)</a></span>
+<span><a href="https://nbhey.github.io/Pet-Project1-HTML-CSS/" target="_blank">Guest House(desktop only)</a></span>
 
 <h3>JS:</h3>
 <span><a  href="https://nbhey.github.io/WeatherApp/">WeatherApp(desktop only)</a></span> <br>
