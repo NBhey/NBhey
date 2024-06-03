@@ -27,7 +27,7 @@ Welcome to my github.  Discovering the world of development and interesting thin
 
 <h3>JS:</h3>
 <span><a  href="https://nbhey.github.io/WeatherApp/">WeatherApp(desktop only)</a></span> <br>
-<span> <a href="https://github.com/NBhey/Rocket-Business-/deployments/github-pages"> Clinic (+php) </a></span>
+<span> <a href="https://github.com/NBhey/Rocket-Business-/deployments/github-pages"> Clinic (+PHP desktop/mobile) </a></span>
 
 
 
