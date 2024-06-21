@@ -15,7 +15,6 @@ Welcome to my github.  Discovering the world of development and interesting thin
 <span><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></span>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NBhey&layout=compact)](https://github.com/NBhey?tab=repositories)
 
 
 <h3>Languages/Языки:</h3>
