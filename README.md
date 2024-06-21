@@ -40,7 +40,7 @@ Welcome to my github.  Discovering the world of development and interesting thin
 <h3>JS:</h3>
 <span><a  href="https://nbhey.github.io/WeatherApp/">WeatherApp(desktop only)</a></span> <br>
 <span> <a href="https://nbhey.github.io/Rocket-Business-/"> Clinic (+PHP desktop in process/mobile) </a></span>
-<br>
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NBhey&layout=compact)](https://github.com/NBhey?tab=repositories) 
 
 
