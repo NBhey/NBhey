@@ -44,6 +44,6 @@ Welcome to my github.  Discovering the world of development and interesting thin
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NBhey&layout=compact)](https://github.com/NBhey/github-readme-stats)
 
 
