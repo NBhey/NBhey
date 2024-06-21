@@ -15,6 +15,8 @@ Welcome to my github.  Discovering the world of development and interesting thin
 <span><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></span>
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NBhey&layout=compact)](https://github.com/NBhey?tab=repositories)
+
 
 <h3>Languages/Языки:</h3>
 <span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"> </span> <span><img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></span> <span><img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt='CSS3'></span>
@@ -41,6 +43,6 @@ Welcome to my github.  Discovering the world of development and interesting thin
 <span><a  href="https://nbhey.github.io/WeatherApp/">WeatherApp(desktop only)</a></span> <br>
 <span> <a href="https://nbhey.github.io/Rocket-Business-/"> Clinic (+PHP desktop in process/mobile) </a></span> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NBhey&layout=compact)](https://github.com/NBhey?tab=repositories) 
+ 
 
 
