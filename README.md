@@ -42,6 +42,8 @@ Welcome to my github.  Discovering the world of development and interesting thin
 <span> <a href="https://nbhey.github.io/Rocket-Business-/"> Clinic (+PHP desktop in process/mobile) </a></span>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
