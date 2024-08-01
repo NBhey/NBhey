@@ -40,7 +40,7 @@ Welcome to my github.  Discovering the world of development and interesting thin
 
 <h3>JS:</h3>
 <span><a  href="https://nbhey.github.io/WeatherApp/">WeatherApp(desktop only)/<b>Repair after API update<b></a></span> <br>
-<span> <a href="https://nbhey.github.io/Rocket-Business-/"> Clinic (+PHP desktop in process/mobile) </a></span> <br>
+<span> <a href="https://nbhey.github.io/Rocket-Business-/"> Clinic (+PHP desktop/mobile) </a></span> <br>
 
  
 
