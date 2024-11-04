@@ -1,12 +1,3 @@
-
-<h2 align="center">Hi there, I'm Oganes <br>
-Welcome to my github.  Discovering the world of development and interesting things related to it. </h2>
-
-<h2 align="center">
-  Привет, меня зовут Оганес <br> 
-  Добро пожаловать в мой гитхаб. Открываю для себя мир разработки и интересных вещей связанных с ней.
-</h2>
-
 <h3>Links/Ссылки:</h3>  
 <a href="https://www.codewars.com/users/NBhey">
   <img src ='https://www.codewars.com/users/NBhey/badges/small'>
