@@ -31,7 +31,7 @@
 
 <h3>JS:</h3>
 <span><a  href="https://nbhey.ru">WeatherApp(desktop only)</a></span> <br>
-<span> <a href="https://nbhey.github.io/Rocket-Business-/"> Clinic (+PHP desktop/mobile) </a></span> <br>
+<span> <a href="ogmarcwb.beget.tech"> Clinic (+PHP desktop/mobile) </a></span> <br>
 
  
 
