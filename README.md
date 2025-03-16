@@ -32,7 +32,7 @@
 <h3>JS:</h3>
 <span><a  href="https://nbhey.ru">WeatherApp(desktop only)</a></span> <br>
 <span> <a href="http://ogmarcwb.beget.tech/"> Clinic (+PHP desktop/mobile) </a></span> <br>
-<span> <a href="(https://nbhey.github.io/Gallows-JS-game/ )"> Виселица </a></span> <br>
+<span> <a href="https://nbhey.github.io/Gallows-JS-game/ "> Виселица </a></span> <br>
  
 
 
