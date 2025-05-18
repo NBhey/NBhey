@@ -34,5 +34,7 @@
 <span> <a href="http://ogmarcwb.beget.tech/"> Clinic (+PHP desktop/mobile) </a></span> <br>
 <span> <a href="https://nbhey.github.io/Gallows-JS-game/ "> Виселица </a></span> <br>
  
+<h3>React:</h3>
+<span><a  href="https://nbhey.github.io/JS_Task_Book/">JS Task Book</a></span> <br>
 
 
