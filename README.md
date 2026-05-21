@@ -1,40 +1,152 @@
-<h3>Links/Ссылки:</h3>  
-<a href="https://www.codewars.com/users/NBhey">
-  <img src ='https://www.codewars.com/users/NBhey/badges/small'>
-</a><br>
-<a href="https://t.me/NBhey">
-<span><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></span>
-</a>
+# NBhey
 
+Frontend-разработчик с опытом создания пользовательских интерфейсов, работы с React/Next.js-приложениями и интеграции frontend-части с backend API.
 
+Основной фокус — чистый UI, поддерживаемая структура компонентов, производительность и решение практических продуктовых задач.
 
-<h3>Languages/Языки:</h3>
-<span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"> </span> <span><img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></span> <span><img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt='CSS3'></span>
+Сейчас развиваюсь в сторону full-stack разработки: изучаю Python, Django, Docker и backend-инфраструктуру.
 
-<h3>Tools/Инструменты:</h3>
+---
 
+## Контакты
 
-<span><img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" alt="Less"></span>
-<span><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap">
-<span><img src ='https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black' alt='Webpack'></span> 
-<span><img src='https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white'></span>
-<span><img src='https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white'></span>
-<span><img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'></span>
-<span><img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'></span>
-<span><img src='https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black'></span>
+- Telegram: [@NBhey](https://t.me/NBhey)
+- Codewars: [NBhey](https://www.codewars.com/users/NBhey)
+- GitHub: [NBhey](https://github.com/NBhey)
 
+---
 
-<h2>Projects/Проекты:</h2>
-<h3>HTML/CSS:</h3>
-<span><a href="https://nbhey.github.io/css-Markarian-Tridrikh/">Mod Studio(desktop and 768px)</a></span> <br>
-<span><a href="https://nbhey.github.io/Pet-Project1-HTML-CSS/" target="_blank">Guest House(desktop only)</a></span>
+## Технологии
 
-<h3>JS:</h3>
-<span><a  href="https://nbhey.ru">WeatherApp(desktop only)</a></span> <br>
-<span> <a href="http://ogmarcwb.beget.tech/"> Clinic (+PHP desktop/mobile) </a></span> <br>
-<span> <a href="https://nbhey.github.io/Gallows-JS-game/ "> Виселица </a></span> <br>
- 
-<h3>React:</h3>
-<span><a  href="https://nbhey.github.io/JS_Task_Book/">JS Task Book</a></span> <br>
+### Frontend
 
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Less
 
+### Backend / Full-stack
+
+- Python
+- Django / Django REST Framework
+- PostgreSQL
+- Redis
+- REST API
+
+### Инструменты
+
+- Git
+- GitHub
+- Webpack
+- Babel
+- ESLint
+- Jest
+- Docker
+- Figma
+
+---
+
+## Проекты
+
+### Верстка / HTML / CSS
+
+#### Mod Studio
+
+Адаптивная HTML/CSS-верстка.
+
+- Десктопная и планшетная версии
+- Семантическая HTML-структура
+- Адаптивные стили
+
+[Открыть проект](https://nbhey.github.io/css-Markarian-Tridrikh/)
+
+---
+
+#### Guest House
+
+Статическая посадочная страница.
+
+- HTML/CSS-верстка
+- Десктопная версия
+- Верстка по макету
+
+[Открыть проект](https://nbhey.github.io/Pet-Project1-HTML-CSS/)
+
+---
+
+### JavaScript
+
+#### Weather App
+
+Приложение для просмотра погоды.
+
+- Интеграция с API
+- Динамическое обновление интерфейса
+- Десктопная версия
+
+[Открыть проект](https://nbhey.ru)
+
+---
+
+#### Clinic
+
+Сайт клиники с PHP-интеграцией.
+
+- Десктопная и мобильная версии
+- Базовая backend-интеграция
+- Многостраничная структура
+
+[Открыть проект](http://ogmarcwb.beget.tech/)
+
+---
+
+#### Виселица
+
+Классическая игра на JavaScript.
+
+- Игровая логика
+- Работа с DOM
+- Интерактивный интерфейс
+
+[Открыть проект](https://nbhey.github.io/Gallows-JS-game/)
+
+---
+
+### React
+
+#### JS Task Book
+
+React-приложение для работы с задачами по JavaScript.
+
+- Компонентный подход
+- Работа с состоянием
+- Интерактивный интерфейс задач
+
+[Открыть проект](https://nbhey.github.io/JS_Task_Book/)
+
+---
+
+## Сейчас изучаю и развиваю
+
+- React и Next.js в production-подходе
+- TypeScript
+- Frontend-архитектуру
+- Интеграцию с API
+- Python и Django
+- Docker-окружение для разработки
+- Оптимизацию производительности
+
+---
+
+## Обо мне
+
+Я начинал как frontend-разработчик и постепенно расширяю зону ответственности в сторону full-stack разработки.
+
+Большая часть моего опыта связана с практическими задачами: разработкой интерфейсов, исправлением багов, улучшением поведения UI, работой с API и изучением backend-инфраструктуры через реальные задачи.
+
+Мне интересно понимать продукт целиком: от интерфейса и пользовательского опыта до backend-логики, деплоя и производительности.
