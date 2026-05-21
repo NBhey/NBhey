@@ -1,152 +1,53 @@
-# NBhey
+# NBhey — Frontend Developer
 
-Frontend-разработчик с опытом создания пользовательских интерфейсов, работы с React/Next.js-приложениями и интеграции frontend-части с backend API.
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-Основной фокус — чистый UI, поддерживаемая структура компонентов, производительность и решение практических продуктовых задач.
-
-Сейчас развиваюсь в сторону full-stack разработки: изучаю Python, Django, Docker и backend-инфраструктуру.
+Делаю интерфейсы на React / Next.js, связываю фронтенд с бэкенд-API.
+Сейчас расширяюсь в сторону full-stack: Python, Django, Docker.
 
 ---
 
 ## Контакты
 
-- Telegram: [@NBhey](https://t.me/NBhey)
-- Codewars: [NBhey](https://www.codewars.com/users/NBhey)
-- GitHub: [NBhey](https://github.com/NBhey)
+[Telegram](https://t.me/NBhey) · [Codewars](https://www.codewars.com/users/NBhey) · [GitHub](https://github.com/NBhey)
 
 ---
 
-## Технологии
+## Стек
 
-### Frontend
-
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- Less
-
-### Backend / Full-stack
-
-- Python
-- Django / Django REST Framework
-- PostgreSQL
-- Redis
-- REST API
-
-### Инструменты
-
-- Git
-- GitHub
-- Webpack
-- Babel
-- ESLint
-- Jest
-- Docker
-- Figma
+**Frontend:** JavaScript · TypeScript · React · Next.js · HTML5 · CSS3 · Tailwind · Bootstrap · Less
+**Backend:** Python · Django / DRF · PostgreSQL · Redis · REST API
+**Tools:** Git · GitHub · Webpack · Babel · ESLint · Jest · Docker · Figma
 
 ---
 
 ## Проекты
 
-### Верстка / HTML / CSS
+**Frontend / Вёрстка**
+- [Mod Studio](https://nbhey.github.io/css-Markarian-Tridrikh/) — адаптивная вёрстка (desktop + 768px)
+- [Guest House](https://nbhey.github.io/Pet-Project1-HTML-CSS/) — лендинг (desktop)
 
-#### Mod Studio
+**JavaScript**
+- [Weather App](https://nbhey.ru) — погода через API, динамический UI
+- [Clinic](http://ogmarcwb.beget.tech/) — многостраничный сайт с PHP (desktop/mobile)
+- [Виселица](https://nbhey.github.io/Gallows-JS-game/) — игра, логика + DOM
 
-Адаптивная HTML/CSS-верстка.
-
-- Десктопная и планшетная версии
-- Семантическая HTML-структура
-- Адаптивные стили
-
-[Открыть проект](https://nbhey.github.io/css-Markarian-Tridrikh/)
-
----
-
-#### Guest House
-
-Статическая посадочная страница.
-
-- HTML/CSS-верстка
-- Десктопная версия
-- Верстка по макету
-
-[Открыть проект](https://nbhey.github.io/Pet-Project1-HTML-CSS/)
+**React**
+- [JS Task Book](https://nbhey.github.io/JS_Task_Book/) — приложение для JS-задач, работа с состоянием
 
 ---
 
-### JavaScript
+## Сейчас в фокусе
 
-#### Weather App
-
-Приложение для просмотра погоды.
-
-- Интеграция с API
-- Динамическое обновление интерфейса
-- Десктопная версия
-
-[Открыть проект](https://nbhey.ru)
-
----
-
-#### Clinic
-
-Сайт клиники с PHP-интеграцией.
-
-- Десктопная и мобильная версии
-- Базовая backend-интеграция
-- Многостраничная структура
-
-[Открыть проект](http://ogmarcwb.beget.tech/)
-
----
-
-#### Виселица
-
-Классическая игра на JavaScript.
-
-- Игровая логика
-- Работа с DOM
-- Интерактивный интерфейс
-
-[Открыть проект](https://nbhey.github.io/Gallows-JS-game/)
-
----
-
-### React
-
-#### JS Task Book
-
-React-приложение для работы с задачами по JavaScript.
-
-- Компонентный подход
-- Работа с состоянием
-- Интерактивный интерфейс задач
-
-[Открыть проект](https://nbhey.github.io/JS_Task_Book/)
-
----
-
-## Сейчас изучаю и развиваю
-
-- React и Next.js в production-подходе
-- TypeScript
-- Frontend-архитектуру
-- Интеграцию с API
-- Python и Django
-- Docker-окружение для разработки
-- Оптимизацию производительности
+React/Next.js · TypeScript · архитектура фронтенда · Python/Django · Docker · производительность
 
 ---
 
 ## Обо мне
 
-Я начинал как frontend-разработчик и постепенно расширяю зону ответственности в сторону full-stack разработки.
-
-Большая часть моего опыта связана с практическими задачами: разработкой интерфейсов, исправлением багов, улучшением поведения UI, работой с API и изучением backend-инфраструктуры через реальные задачи.
-
-Мне интересно понимать продукт целиком: от интерфейса и пользовательского опыта до backend-логики, деплоя и производительности.
+Начинал с фронтенда, постепенно перешёл к full-stack. Большая часть опыта — реальные продуктовые задачи: фичи, багфиксы, поведение UI, работа с API. Интересно понимать продукт целиком — от интерфейса до бэкенда и деплоя.
