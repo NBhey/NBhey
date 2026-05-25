@@ -34,7 +34,7 @@
 
 **JavaScript**
 - [Weather App](https://nbhey.ru) — погода через API, динамический UI
-- [Clinic](http://ogmarcwb.beget.tech/) — многостраничный сайт с PHP (desktop/mobile)
+- [Clinic](http://ogmarcwb.beget.tech/) — одностраничный сайт с PHP (desktop/mobile)
 - [Виселица](https://nbhey.github.io/Gallows-JS-game/) — игра, логика + DOM
 
 **React**
