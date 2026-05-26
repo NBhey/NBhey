@@ -14,7 +14,9 @@
 
 ## Контакты
 
-[Telegram](https://t.me/NBhey) · [Codewars](https://www.codewars.com/users/NBhey) · [GitHub](https://github.com/NBhey)
+[![Codewars](https://www.codewars.com/users/NBhey/badges/small)](https://www.codewars.com/users/NBhey)
+
+[Telegram](https://t.me/NBhey) · [GitHub](https://github.com/NBhey)
 
 ---
 
