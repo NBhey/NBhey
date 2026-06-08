@@ -41,7 +41,7 @@
 
 **React**
 - [JS Task Book](https://nbhey.github.io/JS_Task_Book/) — приложение для JS-задач, работа с состоянием
-
+- [Cinema](https://nbhey.github.io/cinema/) — приложение кинотеатра
 ---
 
 ## Сейчас в фокусе
