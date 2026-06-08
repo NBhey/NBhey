@@ -23,7 +23,9 @@
 ## Стек
 
 **Frontend:** JavaScript · TypeScript · React · Next.js · HTML5 · CSS3 · Tailwind · Bootstrap · Less
-**Backend:** Python · Django / DRF · PostgreSQL · Redis · REST API
+
+**Backend:** Python · Django / DRF · PostgreSQL · Redis · REST API - в процессе обучения
+
 **Tools:** Git · GitHub · Webpack · Babel · ESLint · Jest · Docker · Figma
 
 ---
