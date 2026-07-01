@@ -61,12 +61,6 @@
 
 ---
 
-## 📊 GitHub
-
-![NBhey's GitHub stats](https://github-readme-stats.vercel.app/api?username=NBhey&show_icons=true&theme=dark)
-
----
-
 ## 📞 Контакты
 
 [![Codewars](https://www.codewars.com/users/NBhey/badges/small)](https://www.codewars.com/users/NBhey)
