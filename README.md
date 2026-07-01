@@ -8,7 +8,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 Фронтенд-разработчик с упором на **архитектуру, производительность и production-ready решения**.
-Работаю с **React / Next.js / TypeScript**, умею интегрировать фронтенд с backend, API и CMS, а также доводить проекты ��о живого прода — не только до `localhost:3000`.
+Работаю с **React / Next.js / TypeScript**, умею интегрировать фронтенд с backend, API и CMS, а также доводить проекты до живого прода — не только до `localhost:3000`.
 Спокойно ухожу в бэкенд на **Node.js** и в деплой: **Docker, VPS, nginx, SSL, pm2**.
 
 ---
@@ -61,9 +61,9 @@
 
 ---
 
-## 📊 Языки и инструменты
+## 📊 GitHub
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NBhey&theme=dark)
+![NBhey's GitHub stats](https://github-readme-stats.vercel.app/api?username=NBhey&show_icons=true&theme=dark)
 
 ---
 
