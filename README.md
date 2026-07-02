@@ -66,3 +66,8 @@
 [![Codewars](https://www.codewars.com/users/NBhey/badges/small)](https://www.codewars.com/users/NBhey)
 
 [Portfolio](https://profile.nbhey.ru) · [Telegram](https://t.me/NBhey) · [GitHub](https://github.com/NBhey)
+
+<div align='center'>
+![snake gif](https://github.com/Nbhey/NBhey/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
+
