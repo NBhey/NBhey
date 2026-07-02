@@ -7,13 +7,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NBhey/NBhey/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NBhey/NBhey/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/NBhey/NBhey/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
+<div align='center'>
+  
+  ![snake gif](https://github.com/NBhey/NBhey/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
+
+
 
 Фронтенд-разработчик с упором на **архитектуру, производительность и production-ready решения**.
 Работаю с **React / Next.js / TypeScript**, умею интегрировать фронтенд с backend, API и CMS, а также доводить проекты до живого прода — не только до `localhost:3000`.
