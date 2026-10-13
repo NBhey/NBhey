@@ -1,4 +1,4 @@
-# 👋 NBhey — Fullstack Developer
+# NBhey — Fullstack Developer
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -6,75 +6,33 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1345CD?style=flat&logo=python&logoColor=yellow)
-
-<div align='center'>
-  
-  ![snake gif](https://github.com/NBhey/NBhey/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 
-
-Фронтенд-разработчик с упором на **архитектуру, производительность и production-ready решения**.
-Работаю с **React / Next.js / TypeScript**, умею интегрировать фронтенд с backend, API и CMS, а также доводить проекты до живого прода — не только до `localhost:3000`.
-Спокойно ухожу в бэкенд на **Node.js** и в деплой: **Docker, VPS, nginx, SSL, pm2**.
+Кратко: фронтенд‑ориентированный fullstack-разработчик, делаю устойчивые, масштабируемые и production‑ready интерфейсы и приложения. Основной подход — четкая архитектура, предсказуемая производительность и простая поддержка в продакшене.
 
 ---
 
-## 🎯 Стек
+## Стек
 
-**Frontend:** React · Next.js (App Router) · TypeScript · Tailwind CSS · Zustand / Redux Toolkit · Framer Motion
-**Архитектура:** Feature-Sliced Design · SSR / гидрация · переиспользуемые UI-компоненты
-**Backend:** Node.js · Express · REST API · Strapi CMS · Python (Flask)
-**Database:** PostgreSQL · Redis
-**DevOps:** Docker · nginx · pm2 · certbot / SSL · CI/CD · Git
-
----
-
-## 💼 Опыт и фокус
-
-Работаю с коммерческими проектами на **React / Next.js / TypeScript**.
-Основной фокус:
-- архитектура фронтенда;
-- SSR и гидрация без рассинхрона;
-- интеграция с API и CMS;
-- переиспользуемые UI-компоненты;
-- поддерживаемая структура проекта;
-- production-деплой и настройка окружения.
-
-Не ограничиваюсь только интерфейсом: могу поднять backend на **Node.js**, настроить Docker, nginx, SSL и довести проект до рабочего прода.
-Базово владею **Python (Flask)** — могу поднять простой REST-сервис или разобраться в чужом коде.
+- Frontend: React · Next.js (App Router) · TypeScript · Tailwind CSS · Zustand / Redux Toolkit · Framer Motion
+- Архитектура: Feature‑Sliced Design, модульные UI‑компоненты, server‑side rendering и согласованная гидрация
+- Backend: Node.js · Express · REST API · (опыт с Python/Flask)
+- Базы: PostgreSQL · Redis
+- DevOps / Deploy: Docker · nginx · pm2 · certbot / SSL · CI/CD
 
 ---
 
-## 🚀 Проекты
+## Сейчас
 
-| Проект | Что это | Стек |
-|--------|---------|------|
-| **[profile](https://profile.nbhey.ru)** · [`code`](https://github.com/NBhey/profile) | Персональное портфолио с анимациями, FSD-структурой и production-деплоем на VPS | Next.js, FSD, Tailwind, Framer Motion, nginx, pm2 |
-| **[cinema](https://github.com/NBhey/cinema)** | Приложение-кинотеатр с выбором дат, сеансов и мест; структура по FSD, работа с серверным состоянием | TypeScript, React, FSD, React Query |
-| **[shop-nest-next](https://github.com/NBhey/shop-nest-next-)** | E-Commerce платформа: frontend + backend, авторизация, API и работа с данными | Next.js, Node.js, TypeScript |
+Работаю над публичными проектами (если проект приватный — ссылка не указана):
 
-> Больше проектов — во вкладке [Repositories](https://github.com/NBhey?tab=repositories).
+- profile — персональный сайт и портфолио: https://github.com/NBhey/profile
+- cinema — приложение для управления сеансами и бронированием: https://github.com/NBhey/cinema
 
----
-
-## 💡 Сейчас копаю
-
-- FSD и границы слоёв на реальных проектах
-- SSR / гидрация без рассинхрона
-- Cookie, device detection, `useSyncExternalStore`
-- Анимации в React: Framer Motion, SVG, кастомные переходы
-- Деплой и обслуживание своих проектов на VPS
+Если нужно, могу убрать конкретные ссылки на проекты и оставить только названия.
 
 ---
 
-## 📞 Контакты
+## Контакты
 
-[![Codewars](https://www.codewars.com/users/NBhey/badges/small)](https://www.codewars.com/users/NBhey)
-
-[Portfolio](https://profile.nbhey.ru) · [Telegram](https://t.me/NBhey) · [GitHub](https://github.com/NBhey)
-
-
-
+Portfolio: https://profile.nbhey.ru · Telegram: https://t.me/NBhey · GitHub: https://github.com/NBhey
